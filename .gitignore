@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+node_modules/
+build/
+.DS_Store
+*.tgz
+ts-intro*
+template/src/__tests__/__snapshots__/
+lerna-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.changelog
+.npm/
+*.config.js
+tsconfig.json
+package-lock.json
